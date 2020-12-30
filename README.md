@@ -77,10 +77,9 @@ Este é o cronograma inicial que planejamos:
 | Data | Hora | Objetivo |
 | - | - | - |
 | **04/01/2021** | **18h30 - 20h** | Palestra ao vivo sobre carreira de TI e detalhes sobre o funcionamento do programa e das próximas etapas. |
-| **05/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
-| **08/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
+| **06/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
 | **12/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
-| **14/01/2021** | _a definir_ | Encontro para dar detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **15/01/2021**. |
+| **14/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios e passar detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **15/01/2021**. |
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
 
